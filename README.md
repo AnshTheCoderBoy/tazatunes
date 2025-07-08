@@ -38,9 +38,3 @@ Check out the live site here:
 
 
 
-## 🧠 Inspiration
-
-The idea behind TazaTunes was to combine lightweight radio with the latest audio news — offering a clutter-free audio experience for users who want fresh content without fuss.
-
-## 📂 Project Structure
-
