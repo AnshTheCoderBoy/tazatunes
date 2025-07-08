@@ -31,11 +31,10 @@ Check out the live site here:
 - **Free APIs** – For radio & audio news (Radio Browser API, News audio feeds)
 ## 📸 Screenshots
 
-| My music | Radio Player | Audio News |
-|-----------|--------------|-------------|
-| ![Home](![TM](https://github.com/user-attachments/assets/1a2c4276-6680-475e-beda-d7fb0f57c60d)
-| ![Radio](![TR](https://github.com/user-attachments/assets/08d97c4d-045b-4b94-859b-42d0b84a0ab2)
-| ![News](![TN](https://github.com/user-attachments/assets/98beb888-b62c-495d-831d-455031766876)
+| Home | Radio | News |
+|------|-------|------|
+| ![Home](![TM](https://github.com/user-attachments/assets/476c4cc0-117f-418c-8600-adfeff3779f9)
+) | ![Radio](./screenshots/radio.png) | ![News](./screenshots/news.png) |
 screenshots/news.png) |
 
 
