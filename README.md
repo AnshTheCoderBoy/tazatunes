@@ -1,7 +1,8 @@
 
 # 🎵 TazaTunes - Your Daily Dose of Fresh Tunes
 
-![TazaTunes Banner](https://tazatunes.netlify.app/banner-image-path.png) <!-- Optional: Add a banner image if available -->
+![TazaTunes Banner](![FULL CC](https://github.com/user-attachments/assets/b8450b10-ba61-431a-a210-40fab114ebf4)
+) <!-- Optional: Add a banner image if available -->
 
 TazaTunes is a modern and minimalistic music streaming interface that brings together **radio**, **news**, and **music** in one smooth experience. Designed with user simplicity in mind, it lets you explore audio content without any logins, paywalls, or clutter.
 
