@@ -33,9 +33,8 @@ Check out the live site here:
 
 | Home | Radio | News |
 |------|-------|------|
-| ![Home](![TM](https://github.com/user-attachments/assets/476c4cc0-117f-418c-8600-adfeff3779f9)
-) | ![Radio](./screenshots/radio.png) | ![News](./screenshots/news.png) |
-screenshots/news.png) |
+|![TM](https://github.com/user-attachments/assets/476c4cc0-117f-418c-8600-adfeff3779f9)| ![TR](https://github.com/user-attachments/assets/7247a2c7-4072-4158-a4fd-80c2bbe9ff94)| ![TN](https://github.com/user-attachments/assets/86918899-225e-467c-be05-b2412bc69dea) |
+
 
 
 
